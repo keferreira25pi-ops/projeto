@@ -1,2 +1,2 @@
-# projeto
-grupo entre kelvy luis e paulo
+x = int(intput(Digite um numero: ))
+print (X)
